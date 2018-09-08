@@ -1,0 +1,8 @@
+absdiff: F1: 0.428.
+buffer_mean: F1: 0.575. 
+buffer_median: F1: 0.588.
+sigma_delta_continous: F1: 0.663.
+sigma_delta_discrete: F1: 0.717.
+sigma_delta_conserative: F1: 0.877.
+MOG: F1: 0.853.
+kNN: F1: 0.846.
